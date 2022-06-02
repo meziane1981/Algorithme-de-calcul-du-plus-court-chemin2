@@ -4,7 +4,7 @@
  * Author: doug@neverfear.org
  */
 
-require("Dijkstra.php");
+require("algo.php");
 
 function runTest() {
 	$g = new Graph();
