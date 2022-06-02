@@ -9,10 +9,10 @@ class bord {
 	public$fin;
 	public $poids;
 	
-	public function __construct($start,$fin, $poids) {
-		$this->debut =$debut;
+	public function __construct($debut,$fin, $poids) {
+		$this->debut = $debut;
 		$this->fin =$fin;
-		$this->poids = $weight;
+		$this->poids = $poids;
 	}
 }
 
