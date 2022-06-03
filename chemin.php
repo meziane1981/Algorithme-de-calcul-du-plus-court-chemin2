@@ -1,7 +1,8 @@
 <?php
 
 
-
+require "cellele.php";
+require_once "cart.php";
  
 
 class chemin
