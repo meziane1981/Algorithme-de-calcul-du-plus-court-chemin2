@@ -13,17 +13,13 @@ class cellule
 		 
 	}
 
-	/**
-	 * Obtenir la valeur de la ligne
-	 */ 
+
 	public function getligne(): int
 	{
 		return $this->ligne;
 	}
 
-	/**
-	 *Obtenir la valeur de la colonne
-	 */ 
+
 	public function getColonne(): int
 	{
 		return $this->Colonne;
